@@ -1,3 +1,9 @@
 body {
   background-color: green;
 }
+
+.pic{
+    width:100%;
+    height:auto;
+    max-width:1000px;
+}
