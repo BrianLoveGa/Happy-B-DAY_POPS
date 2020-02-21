@@ -107,6 +107,10 @@ span {
   width: 10px;
 }
 
-h5{
-    font-size:2em;
+h5 {
+  font-size: 2em;
+}
+
+#round {
+  border-radius: 70px;
 }
