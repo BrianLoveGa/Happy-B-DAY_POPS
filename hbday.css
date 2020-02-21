@@ -25,10 +25,31 @@ body {
 }
 
 h1 {
-  font-family: 'Cedarville Cursive', Cursive ;
+  font-family: "Cedarville Cursive", Cursive;
   font-size: 4em;
 }
-h2{
-    font-family: 'Rammetto One', arial;
-    font-size:2.5em;
+h2 {
+  font-family: "Rammetto One", arial;
+  font-size: 2.5em;
+}
+
+h3 {
+  font-family: "Kristi", Cursive;
+  font-size: 4em;
+}
+
+h4 {
+  font-family: "Purple Purse", arial;
+  font-size: 2em;
+}
+
+p {
+  font-family: "Gurajada", sans-serif;
+  font-size: 2em;
+}
+
+ul {
+  font-family: "Ramabhadra", Verdana, Tahoma, sans-serif;
+  font-size: 2em;
+  list-style: none;
 }
